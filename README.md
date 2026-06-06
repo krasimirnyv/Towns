@@ -1,5 +1,5 @@
 # Towns for SoftUni
-Code for the Git and GitHub Exercise from DevOps for Developers
+Code for the Git and GitHub Exercise for DevOps for Developers
 
 # Roles
 + Krasimir Naydenov takes the role "Editor"
